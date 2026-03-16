@@ -12,7 +12,7 @@ relative_links:
 
 # Enable mermaid diagram support
 mermaid:
-  version: "10.9.0"
+  version: "11.13.0"
 
 # Exclude files from the build
 exclude:
